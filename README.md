@@ -1,4 +1,4 @@
-# Automatic Text Summarization and Evaluation
+# Extractive Text Summarization Using Topic Modelling and Evaluation
 
 ## Overview:
 This project implements automatic text summarization techniques and evaluation metrics using Python and various libraries such as NLTK, Gensim, NetworkX, and Rouge Score. The goal is to summarize textual documents efficiently and evaluate the quality of generated summaries against reference summaries.
