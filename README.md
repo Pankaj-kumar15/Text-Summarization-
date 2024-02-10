@@ -41,9 +41,4 @@ This project implements automatic text summarization techniques and evaluation m
 - `generated_summaries/`: Directory where the generated summaries will be saved.
 - `evaluation_results/`: Directory where the evaluation results, including ROUGE scores, will be saved.
 
-## Contributors:
-- [Your Name]
-- [Your Email]
 
-## License:
-This project is licensed under the [License Name] License - see the `LICENSE` file for details.
